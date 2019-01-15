@@ -1,0 +1,76 @@
+{
+  "events": [
+    {
+      "start_date": {
+        "year": "1",
+        "month": "",
+        "day": "",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "1",
+        "month": "",
+        "day": "",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "background": {
+        "color": "black",
+        "opacity": 50,
+        "url": null
+      },
+      "media": {
+        "caption": "",
+        "credit": "",
+        "url": ""
+      },
+      "text": {
+        "headline": "Pruebas Unitarias",
+        "text": "<b>¿Qué son?</b> <br> Es una forma de comprobar el correcto funcionamiento de una unidad de código. <br> <b>¿Para que sirven?</b> <br> Son casos de pruebas que permiten verificar cada función o método en un módulo en particular <br> <b>Objetivo</b><br> El objetivo de las pruebas unitarias es aislar cada parte del programa y mostrar que las partes individuales son correctas. Proporcionan un contrato escrito que el trozo de código debe satisfacer."
+      }
+    },
+        {
+      "start_date": {
+        "year": "2",
+        "month": "",
+        "day": "",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "2",
+        "month": "",
+        "day": "",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "background": {
+        "color": "black",
+        "opacity": 50,
+        "url": null
+      },
+      "media": {
+        "caption": "",
+        "credit": "",
+        "url": ""
+      },
+      "text": {
+        "headline": "Realizar pruebas",
+        "text": "<b>Librerías</b> <br> Para nuestro en caso en python, se utiliza la librería <b>unittest</b> que por defecto ya viene con el lenguaje, y adicional a ello el framework <b>Django</b> tiene su propia implementación de la librería donde a parte de contener todas sus funcionalidades, también agrega funcionalidades inherentes a las pruebas de una web."
+      }
+    }
+  ]
+}
