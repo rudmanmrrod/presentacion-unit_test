@@ -36,7 +36,7 @@
         "text": "<b>¿Qué son?</b> <br> Es una forma de comprobar el correcto funcionamiento de una unidad de código. <br> <b>¿Para que sirven?</b> <br> Son casos de pruebas que permiten verificar cada función o método en un módulo en particular <br> <b>Objetivo</b><br> El objetivo de las pruebas unitarias es aislar cada parte del programa y mostrar que las partes individuales son correctas. Proporcionan un contrato escrito que el trozo de código debe satisfacer."
       }
     },
-        {
+    {
       "start_date": {
         "year": "2",
         "month": "",
@@ -70,6 +70,78 @@
       "text": {
         "headline": "Realizar pruebas",
         "text": "<b>Librerías</b> <br> Para nuestro en caso en python, se utiliza la librería <b>unittest</b> que por defecto ya viene con el lenguaje, y adicional a ello el framework <b>Django</b> tiene su propia implementación de la librería donde a parte de contener todas sus funcionalidades, también agrega funcionalidades inherentes a las pruebas de una web."
+      }
+    },
+    {
+      "start_date": {
+        "year": "3",
+        "month": "",
+        "day": "",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "3",
+        "month": "",
+        "day": "",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "background": {
+        "color": "black",
+        "opacity": 50,
+        "url": null
+      },
+      "media": {
+        "caption": "",
+        "credit": "",
+        "url": "img/ex1.png"
+      },
+      "text": {
+        "headline": "¿Cómo se programan?",
+        "text": "La programación de pruebas unitarias se basan en la creación de <b>Casos de Prueba</b> que comprendan de manera atómica una funcionalidad particular del sistema, pasa así comprobar de acuerdo a la especificación de las funcionalidades si cumplen con lo esperado."
+      }
+    },
+    {
+      "start_date": {
+        "year": "4",
+        "month": "",
+        "day": "",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "4",
+        "month": "",
+        "day": "",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "background": {
+        "color": "black",
+        "opacity": 50,
+        "url": null
+      },
+      "media": {
+        "caption": "",
+        "credit": "",
+        "url": ""
+      },
+      "text": {
+        "headline": "Casos de prueba",
+        "text": "Nuestros casos de prueba son simplemente clases que heredan de otra clase de la prueba unitaria con métodos predefinidos para realizar nuestras pruebas, en nuestro caso para django debemos conocer un método fundamental que es el <b>setUp</b> en el cual configuramos los valores iniciales de nuestro caso de prueba, así como también debemos conocer que todo método definido en nuestro archivo de pruebas que comience con <b>test_</b> se ejecutará dentro del caso de prueba."
       }
     }
   ]
