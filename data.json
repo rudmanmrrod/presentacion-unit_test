@@ -287,6 +287,114 @@
         "headline": "Probar actualizar y eliminar",
         "text": "El código presentado es continuación del caso de prueba anterior y se prueba la acción de actualizar y eliminar."
       }
+    },
+    {
+      "start_date": {
+        "year": "9",
+        "month": "",
+        "day": "",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "9",
+        "month": "",
+        "day": "",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "background": {
+        "color": "black",
+        "opacity": 50,
+        "url": null
+      },
+      "media": {
+        "caption": "",
+        "credit": "",
+        "url": "img/res1.png"
+      },
+      "text": {
+        "headline": "Nuevo caso de prueba, rest",
+        "text": "Ahora se realizarán pruebas con servicios rest, donde la lógica es muy similar, pero algunas partes de la implementación son distintas, cómo de costumbre se debe configurar en el <b>setUp</b>, y aquí vemos como se prueba el listado de registros."
+      }
+    },
+    {
+      "start_date": {
+        "year": "10",
+        "month": "",
+        "day": "",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "10",
+        "month": "",
+        "day": "",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "background": {
+        "color": "black",
+        "opacity": 50,
+        "url": null
+      },
+      "media": {
+        "caption": "",
+        "credit": "",
+        "url": "img/res2.png"
+      },
+      "text": {
+        "headline": "Probar crear, actualizar y eliminar",
+        "text": "Siguiendo con el ejemplo de los rest, en el código al lado se muestra una prueba sencilla de creación, actualización y borrado."
+      }
+    },
+    {
+      "start_date": {
+        "year": "11",
+        "month": "",
+        "day": "",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "11",
+        "month": "",
+        "day": "",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "background": {
+        "color": "black",
+        "opacity": 50,
+        "url": null
+      },
+      "media": {
+        "caption": "",
+        "credit": "",
+        "url": ""
+      },
+      "text": {
+        "headline": "¿Qué es lo siguiente?",
+        "text": "Realmente el mundo de las pruebas unitarias es un mundo totalmente aparte, donde el límite de las pruebas, o lo minuciosas que pueden ser depende del equipo de pruebas, ya que se puede probar una infinidad de cosas para verificar una simple funcionalidad.<br>Ahora, respondiendo a la pregunta, <b>¿qué sigue?</b>, éstas son simplemente pruebas en el backend, faltarían implementar pruebas en el código del frontend, y llevar las pruebas unitarias a otro nivel convirtiéndolas en pruebas automatizadas."
+      }
     }
   ]
 }
