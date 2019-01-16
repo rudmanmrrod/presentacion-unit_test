@@ -137,11 +137,47 @@
       "media": {
         "caption": "",
         "credit": "",
-        "url": ""
+        "url": "img/ex2.png"
       },
       "text": {
         "headline": "Casos de prueba",
         "text": "Nuestros casos de prueba son simplemente clases que heredan de otra clase de la prueba unitaria con métodos predefinidos para realizar nuestras pruebas, en nuestro caso para django debemos conocer un método fundamental que es el <b>setUp</b> en el cual configuramos los valores iniciales de nuestro caso de prueba, así como también debemos conocer que todo método definido en nuestro archivo de pruebas que comience con <b>test_</b> se ejecutará dentro del caso de prueba."
+      }
+    },
+    {
+      "start_date": {
+        "year": "5",
+        "month": "",
+        "day": "",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "5",
+        "month": "",
+        "day": "",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "background": {
+        "color": "black",
+        "opacity": 50,
+        "url": null
+      },
+      "media": {
+        "caption": "",
+        "credit": "",
+        "url": "img/ex3.png"
+      },
+      "text": {
+        "headline": "Métodos Assert",
+        "text": "Éstos métodos son los que nos permiten verificar la validez de varias funcionalidades a probar en nuestros casos de prueba. <br> Aparte de los existentes, Django también contiene sus propios assert, como por ejemplo: <b>assertFieldOutput, assertFormError, assertContains, assertTemplateUsed, assertRedirects</b> y muchos otras explicadas en la documentación."
       }
     }
   ]
