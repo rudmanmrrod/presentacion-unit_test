@@ -179,6 +179,114 @@
         "headline": "Métodos Assert",
         "text": "Éstos métodos son los que nos permiten verificar la validez de varias funcionalidades a probar en nuestros casos de prueba. <br> Aparte de los existentes, Django también contiene sus propios assert, como por ejemplo: <b>assertFieldOutput, assertFormError, assertContains, assertTemplateUsed, assertRedirects</b> y muchos otras explicadas en la documentación."
       }
+    },
+    {
+      "start_date": {
+        "year": "6",
+        "month": "",
+        "day": "",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "6",
+        "month": "",
+        "day": "",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "background": {
+        "color": "black",
+        "opacity": 50,
+        "url": null
+      },
+      "media": {
+        "caption": "",
+        "credit": "",
+        "url": "img/cod1.png"
+      },
+      "text": {
+        "headline": "Probar un módelo",
+        "text": "En el código presentado se prepara el test case con datos iniciales y se procede a crear el modelo."
+      }
+    },
+    {
+      "start_date": {
+        "year": "7",
+        "month": "",
+        "day": "",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "7",
+        "month": "",
+        "day": "",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "background": {
+        "color": "black",
+        "opacity": 50,
+        "url": null
+      },
+      "media": {
+        "caption": "",
+        "credit": "",
+        "url": "img/cod2.png"
+      },
+      "text": {
+        "headline": "Probar listar y crear",
+        "text": "El código presentado es continuación del caso de prueba anterior y se prueba la vista de listar y la vista más la acción de crear."
+      }
+    },
+    {
+      "start_date": {
+        "year": "8",
+        "month": "",
+        "day": "",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "8",
+        "month": "",
+        "day": "",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "background": {
+        "color": "black",
+        "opacity": 50,
+        "url": null
+      },
+      "media": {
+        "caption": "",
+        "credit": "",
+        "url": "img/cod3.png"
+      },
+      "text": {
+        "headline": "Probar actualizar y eliminar",
+        "text": "El código presentado es continuación del caso de prueba anterior y se prueba la acción de actualizar y eliminar."
+      }
     }
   ]
 }
