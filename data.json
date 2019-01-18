@@ -69,7 +69,7 @@
       },
       "text": {
         "headline": "Realizar pruebas",
-        "text": "<b>Librerías</b> <br> Para nuestro en caso en python, se utiliza la librería <b>unittest</b> que por defecto ya viene con el lenguaje, y adicional a ello el framework <b>Django</b> tiene su propia implementación de la librería donde a parte de contener todas sus funcionalidades, también agrega funcionalidades inherentes a las pruebas de una web."
+        "text": "<b>Librerías</b> <br> Para nuestro caso en python, se utiliza la librería <b>unittest</b> que por defecto ya viene con el lenguaje, y adicional a ello el framework <b>Django</b> tiene su propia implementación de la librería donde a parte de contener todas sus funcionalidades, también agrega funcionalidades inherentes a las pruebas de una web."
       }
     },
     {
@@ -105,7 +105,7 @@
       },
       "text": {
         "headline": "¿Cómo se programan?",
-        "text": "La programación de pruebas unitarias se basan en la creación de <b>Casos de Prueba</b> que comprendan de manera atómica una funcionalidad particular del sistema, pasa así comprobar de acuerdo a la especificación de las funcionalidades si cumplen con lo esperado."
+        "text": "La programación de pruebas unitarias se basan en la creación de <b>Casos de Prueba</b> que comprendan de manera atómica una funcionalidad particular del sistema, para así comprobar de acuerdo a la especificación de las funcionalidades si cumplen con lo esperado."
       }
     },
     {
@@ -177,7 +177,7 @@
       },
       "text": {
         "headline": "Métodos Assert",
-        "text": "Éstos métodos son los que nos permiten verificar la validez de varias funcionalidades a probar en nuestros casos de prueba. <br> Aparte de los existentes, Django también contiene sus propios assert, como por ejemplo: <b>assertFieldOutput, assertFormError, assertContains, assertTemplateUsed, assertRedirects</b> y muchos otras explicadas en la documentación."
+        "text": "Éstos métodos son los que nos permiten verificar la validez de varias funcionalidades a probar en nuestros casos de prueba. <br> Aparte de los existentes, Django también contiene sus propios assert, como por ejemplo: <b>assertFieldOutput, assertFormError, assertContains, assertTemplateUsed, assertRedirects</b> y muchos otros explicados en la documentación."
       }
     },
     {
